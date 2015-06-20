@@ -1,2 +1,2 @@
 # csgo-sdk
-Counter-Strike Global Offensive
+Counter-Strike Global Offensive SDK (Reverse Engineered SDK)
